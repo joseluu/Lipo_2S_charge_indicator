@@ -8,6 +8,8 @@ Voltage level are conservative so that battery life is preserved
 
 First led is always on even is battery is weak, 4 other leds will indicate charge status.
 
+Voltage levels are: 7.4V   7.6V  8V  8.15V
+
 If voltage is < 7.4V  (Only first led ON) -> must stop operation otherwise battery life will be shortened
 
 If voltage is > 8.15V (All leds ON) -> full: no need to recharge more
