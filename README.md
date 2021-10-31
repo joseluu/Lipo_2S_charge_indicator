@@ -4,7 +4,7 @@ Bargraph displaying charge status of a 2S lipo battery
 
 Voltage levels inspired by https://blog.ampow.com/lipo-voltage-chart/
 
-Voltage level are conservative to that battery life is preserved
+Voltage level are conservative so that battery life is preserved
 
 If voltage is < 7.4V  -> must stop operation otherwise battery life will be shortened
 
