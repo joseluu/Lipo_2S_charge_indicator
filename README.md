@@ -21,3 +21,7 @@ The LM3916 needs +12V to operate, therefore a step-up converter had to be added 
 The indicator is monitoring the batteries of this little guy
 
 ![Photo](Documents/Robot.jpg)
+
+How it is wired
+
+![Photo](Documents/solder_side.jpg)
