@@ -22,6 +22,6 @@ The indicator is monitoring the batteries of this little guy
 
 ![Photo](Documents/Robot.jpg)
 
-How it is wired
+How it is wired using 22AWG type wire
 
 ![Photo](Documents/solder_side.jpg)
