@@ -17,3 +17,7 @@ If voltage is > 8.2V (All leds ON) -> full: no need to recharge more, this volta
 The LM3916 needs +12V to operate, therefore a step-up converter had to be added to the design
 
 ![Photo](Documents/component_side.jpg)
+
+The indicator is monitoring the batteries of this little guy
+
+![Photo](Documents/Robot.jpg)
