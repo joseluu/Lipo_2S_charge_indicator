@@ -8,7 +8,7 @@ Voltage level are conservative so that battery life is preserved
 
 First led is always on even is battery is weak, 4 other leds will indicate charge status.
 
-Voltage levels are: 7.4V   7.6V  7.9V  8.2V
+Voltage levels are: 7.4V  7.6V  7.9V  8.2V   respectively for LiFePO4:  6.1V   6.5V   6.6V   6.7V
 
 If voltage is < 7.4V  (Only first led ON) -> must stop operation otherwise battery life will be shortened, this threshold can be adjusted by changing the value of R2
 
