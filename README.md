@@ -2,7 +2,7 @@
 
 Bargraph displaying charge status of a 2S lipo battery
 
-Voltage levels inspired by https://blog.ampow.com/lipo-voltage-chart/
+Voltage levels inspired by https://blog.ampow.com/lipo-voltage-chart/ LiFePO4 levels: https://powmr.com/blogs/news/lifepo4-voltage-chart-and-soc#gf
 
 Voltage level are conservative so that battery life is preserved
 
